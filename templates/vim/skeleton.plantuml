@@ -1,0 +1,18 @@
+' Abstract
+
+@startuml
+
+!$color_bg_main = "#aedfff"
+
+skinparam title {
+	BorderRoundCorner 15
+	BorderThickness 2
+	BackgroundColor $color_bg_main
+}
+
+title My PlantUML diagram
+/'
+comment 1
+comment 2
+'/
+@enduml
